@@ -41,7 +41,7 @@ def noalsaerr():
         print('')
 
 ### PARAMETERS ###
-activationWords = ['computer', 'calcutron', 'shodan', 'showdown']
+activationWords = ['computer', 'calcutron', 'shodan', 'showup']
 tts_type = 'local' # google or local
 
 # Local speech engine initialisation
